@@ -1,0 +1,15 @@
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\bin\Debug\XamarinAndroidPro1.dll
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\bin\Debug\XamarinAndroidPro1.pdb
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\bin\Debug\XamarinAndroidPro1.XamarinAndroidPro1.apk
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\bin\Debug\XamarinAndroidPro1.XamarinAndroidPro1-Signed.apk
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\XamarinAndroidPro1.csprojResolveAssemblyReference.cache
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\XamarinAndroidPro1.dll
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\XamarinAndroidPro1.pdb
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\bin\XamarinAndroidPro1.XamarinAndroidPro1.apk
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\res\layout\main.xml
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\res\values\strings.xml
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\res\drawable\icon.png
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\R.cs.flag
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\uploadflags.txt
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\XamarinAndroidPro1.dll.mdb
+c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\bin\Debug\XamarinAndroidPro1.dll.mdb

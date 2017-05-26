@@ -1,0 +1,4 @@
+XamarinAndroidPro1.MainActivity, XamarinAndroidPro1;md5474cf43ed655fa30a7e2b9a67b8fdf8e.MainActivity
+XamarinAndroidPro1.MainActivity, XamarinAndroidPro1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5474cf43ed655fa30a7e2b9a67b8fdf8e.MainActivity
+XamarinAndroidPro1.MainActivity;md5474cf43ed655fa30a7e2b9a67b8fdf8e.MainActivity
+xamarinandroidpro1.MainActivity;md5474cf43ed655fa30a7e2b9a67b8fdf8e.MainActivity
