@@ -1,0 +1,17 @@
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\AndroidUITest1.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\AndroidUITest1.pdb
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\nunit.framework.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Xamarin.UITest.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\nunit.framework.xml
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Xamarin.UITest.xml
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\obj\Debug\AndroidUITest1.csprojResolveAssemblyReference.cache
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\obj\Debug\AndroidUITest1.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\obj\Debug\AndroidUITest1.pdb
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\XamarinAndroidPro1.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Debug\XamarinAndroidPro1.pdb
