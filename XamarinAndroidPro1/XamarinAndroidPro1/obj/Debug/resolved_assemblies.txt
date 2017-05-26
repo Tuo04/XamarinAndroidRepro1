@@ -1,24 +1,30 @@
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\XamarinAndroidPro1.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Java.Interop.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.CSharp.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Mono.Android.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\mscorlib.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Core.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Xml.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Threading.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Collections.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Reflection.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Linq.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Mono.CSharp.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\mdtestau\documents\visual studio 2017\Projects\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\XamarinAndroidPro1.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.CSharp.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\mscorlib.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Core.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Xml.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Microsoft.Azure.Mobile.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Threading.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Collections.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Linq.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\Mono.CSharp.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\mdTestAU\XamarinAndroidRepro1\XamarinAndroidPro1\XamarinAndroidPro1\obj\Debug\android\assets\System.ServiceModel.Internals.dll

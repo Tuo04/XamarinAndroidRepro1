@@ -99,6 +99,12 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "XamarinAndroidPro1.dll" comes first in this list. */
 		"XamarinAndroidPro1.dll",
+		"Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Analytics.dll",
+		"Microsoft.Azure.Mobile.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Crashes.dll",
+		"Microsoft.Azure.Mobile.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
