@@ -16,7 +16,7 @@ namespace XamarinAndroidPro1
 
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
-            MobileCenter.Start("0364021f-65bc-4fb7-a388-c9100d16c467",
+            MobileCenter.Start("9e491e11-07ef-4ad3-94fd-dfc23febe46c",
                    typeof(Analytics), typeof(Crashes));
         }
     }
