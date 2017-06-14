@@ -19,7 +19,6 @@ C:\Users\v-tuchen\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\obj\Rel
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\AndroidUITest1.dll
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\AndroidUITest1.pdb
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\nunit.framework.dll
-D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\Xamarin.UITest.dll
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\XamarinAndroidPro1.dll
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\Microsoft.Azure.Mobile.Analytics.dll
 D:\Users\v-tuchen\testAndroid\XamarinAndroidRepro1\XamarinAndroidPro1\AndroidUITest1\bin\Release\Microsoft.Azure.Mobile.Crashes.dll
